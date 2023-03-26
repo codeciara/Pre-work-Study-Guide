@@ -1,2 +1,2 @@
-# Pre-work-Study-Guide
-A study guide for course pre-work.
+# pre-work-study-guide
+A bootcamp study guide for course pre-work.
